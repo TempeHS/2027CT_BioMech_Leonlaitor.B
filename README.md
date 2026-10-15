@@ -10,5 +10,6 @@ Born blind, wants to find her way around school without a cane
 - Blepharospasm
 - Diagnosed intellectually mild
 
+## High-level pictorial
 - <img width="995" height="554" alt="Screenshot 2026-10-15 115004" src="https://github.com/user-attachments/assets/e05b5b8f-1577-47c5-9ebc-9d8711839c67" />
 
