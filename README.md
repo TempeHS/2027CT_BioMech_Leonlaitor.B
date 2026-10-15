@@ -1,8 +1,7 @@
 # 2027CT_BioMech_Leonlaitor.B
 
 ## Overview of our project
-Our product is called the Buzzglasses. They are designed to measure the distence of objects from you. They use an ultrasonic sensor that sends vibrations depending how far you are from objects. The target audience for these glasses are blind and vision impaired people.
-
+ Buzzglasses are a lightweight pair of glasses that detect how far objects are and vibrates more and more depending on how far you are from an object it uses an ultrasonic sensor and a small vibration motor.
 ## Prfile of our patient 
 ### Kaia
 Born blind, wants to find her way around school without a cane
