@@ -13,3 +13,4 @@ Born blind, wants to find her way around school without a cane
 ## High-level pictorial
 - <img width="995" height="554" alt="Screenshot 2026-10-15 115004" src="https://github.com/user-attachments/assets/e05b5b8f-1577-47c5-9ebc-9d8711839c67" />
 
+on/off button, small battery, vibration motor, ultrasonic transceiver, 3D custom glasses body, non pesrtion glasses lesnes
