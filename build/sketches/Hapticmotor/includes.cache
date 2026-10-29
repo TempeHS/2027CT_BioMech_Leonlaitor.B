@@ -1,0 +1,274 @@
+[
+  {
+    "added_include_path": "/home/codespace/.arduino15/packages/arduino/hardware/avr/1.8.8/cores/arduino"
+  },
+  {
+    "added_include_path": "/home/codespace/.arduino15/packages/arduino/hardware/avr/1.8.8/variants/standard"
+  },
+  {
+    "compile": {
+      "source_path": "/workspaces/2027CT_BioMech_Leonlaitor.B/build/sketches/Hapticmotor/sketch/Hapticmotor.ino.cpp",
+      "object_path": "/workspaces/2027CT_BioMech_Leonlaitor.B/build/sketches/Hapticmotor/sketch/Hapticmotor.ino.cpp.o",
+      "depfile_path": "/workspaces/2027CT_BioMech_Leonlaitor.B/build/sketches/Hapticmotor/sketch/Hapticmotor.ino.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "/home/codespace/.arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_UNO",
+        "-DARDUINO_ARCH_AVR",
+        "-I/home/codespace/.arduino15/packages/arduino/hardware/avr/1.8.8/cores/arduino",
+        "-I/home/codespace/.arduino15/packages/arduino/hardware/avr/1.8.8/variants/standard",
+        "/workspaces/2027CT_BioMech_Leonlaitor.B/build/sketches/Hapticmotor/sketch/Hapticmotor.ino.cpp",
+        "-o",
+        "/dev/null"
+      ]
+    }
+  },
+  {
+    "missing_include_h": "drv2605.h"
+  },
+  {
+    "added_include_path": "/home/codespace/Arduino/libraries/Grove_-_Haptic_Motor"
+  },
+  {
+    "compile": {
+      "source_path": "/workspaces/2027CT_BioMech_Leonlaitor.B/build/sketches/Hapticmotor/sketch/Hapticmotor.ino.cpp",
+      "object_path": "/workspaces/2027CT_BioMech_Leonlaitor.B/build/sketches/Hapticmotor/sketch/Hapticmotor.ino.cpp.o",
+      "depfile_path": "/workspaces/2027CT_BioMech_Leonlaitor.B/build/sketches/Hapticmotor/sketch/Hapticmotor.ino.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "/home/codespace/.arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_UNO",
+        "-DARDUINO_ARCH_AVR",
+        "-I/home/codespace/.arduino15/packages/arduino/hardware/avr/1.8.8/cores/arduino",
+        "-I/home/codespace/.arduino15/packages/arduino/hardware/avr/1.8.8/variants/standard",
+        "-I/home/codespace/Arduino/libraries/Grove_-_Haptic_Motor",
+        "/workspaces/2027CT_BioMech_Leonlaitor.B/build/sketches/Hapticmotor/sketch/Hapticmotor.ino.cpp",
+        "-o",
+        "/dev/null"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "/home/codespace/Arduino/libraries/Grove_-_Haptic_Motor/drv2605.cpp",
+      "object_path": "/workspaces/2027CT_BioMech_Leonlaitor.B/build/sketches/Hapticmotor/libraries/Grove_-_Haptic_Motor/drv2605.cpp.o",
+      "depfile_path": "/workspaces/2027CT_BioMech_Leonlaitor.B/build/sketches/Hapticmotor/libraries/Grove_-_Haptic_Motor/drv2605.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "/home/codespace/.arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_UNO",
+        "-DARDUINO_ARCH_AVR",
+        "-I/home/codespace/.arduino15/packages/arduino/hardware/avr/1.8.8/cores/arduino",
+        "-I/home/codespace/.arduino15/packages/arduino/hardware/avr/1.8.8/variants/standard",
+        "-I/home/codespace/Arduino/libraries/Grove_-_Haptic_Motor",
+        "/home/codespace/Arduino/libraries/Grove_-_Haptic_Motor/drv2605.cpp",
+        "-o",
+        "/dev/null"
+      ]
+    }
+  },
+  {
+    "missing_include_h": "Wire.h"
+  },
+  {
+    "added_include_path": "/home/codespace/.arduino15/packages/arduino/hardware/avr/1.8.8/libraries/Wire/src"
+  },
+  {
+    "compile": {
+      "source_path": "/home/codespace/Arduino/libraries/Grove_-_Haptic_Motor/drv2605.cpp",
+      "object_path": "/workspaces/2027CT_BioMech_Leonlaitor.B/build/sketches/Hapticmotor/libraries/Grove_-_Haptic_Motor/drv2605.cpp.o",
+      "depfile_path": "/workspaces/2027CT_BioMech_Leonlaitor.B/build/sketches/Hapticmotor/libraries/Grove_-_Haptic_Motor/drv2605.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "/home/codespace/.arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_UNO",
+        "-DARDUINO_ARCH_AVR",
+        "-I/home/codespace/.arduino15/packages/arduino/hardware/avr/1.8.8/cores/arduino",
+        "-I/home/codespace/.arduino15/packages/arduino/hardware/avr/1.8.8/variants/standard",
+        "-I/home/codespace/Arduino/libraries/Grove_-_Haptic_Motor",
+        "-I/home/codespace/.arduino15/packages/arduino/hardware/avr/1.8.8/libraries/Wire/src",
+        "/home/codespace/Arduino/libraries/Grove_-_Haptic_Motor/drv2605.cpp",
+        "-o",
+        "/dev/null"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "/home/codespace/.arduino15/packages/arduino/hardware/avr/1.8.8/libraries/Wire/src/Wire.cpp",
+      "object_path": "/workspaces/2027CT_BioMech_Leonlaitor.B/build/sketches/Hapticmotor/libraries/Wire/Wire.cpp.o",
+      "depfile_path": "/workspaces/2027CT_BioMech_Leonlaitor.B/build/sketches/Hapticmotor/libraries/Wire/Wire.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "/home/codespace/.arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_UNO",
+        "-DARDUINO_ARCH_AVR",
+        "-I/home/codespace/.arduino15/packages/arduino/hardware/avr/1.8.8/cores/arduino",
+        "-I/home/codespace/.arduino15/packages/arduino/hardware/avr/1.8.8/variants/standard",
+        "-I/home/codespace/Arduino/libraries/Grove_-_Haptic_Motor",
+        "-I/home/codespace/.arduino15/packages/arduino/hardware/avr/1.8.8/libraries/Wire/src",
+        "/home/codespace/.arduino15/packages/arduino/hardware/avr/1.8.8/libraries/Wire/src/Wire.cpp",
+        "-o",
+        "/dev/null"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "/home/codespace/.arduino15/packages/arduino/hardware/avr/1.8.8/libraries/Wire/src/utility/twi.c",
+      "object_path": "/workspaces/2027CT_BioMech_Leonlaitor.B/build/sketches/Hapticmotor/libraries/Wire/utility/twi.c.o",
+      "depfile_path": "/workspaces/2027CT_BioMech_Leonlaitor.B/build/sketches/Hapticmotor/libraries/Wire/utility/twi.c.d"
+    },
+    "compile_task": {
+      "args": [
+        "/home/codespace/.arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_UNO",
+        "-DARDUINO_ARCH_AVR",
+        "-I/home/codespace/.arduino15/packages/arduino/hardware/avr/1.8.8/cores/arduino",
+        "-I/home/codespace/.arduino15/packages/arduino/hardware/avr/1.8.8/variants/standard",
+        "-I/home/codespace/Arduino/libraries/Grove_-_Haptic_Motor",
+        "-I/home/codespace/.arduino15/packages/arduino/hardware/avr/1.8.8/libraries/Wire/src",
+        "/home/codespace/.arduino15/packages/arduino/hardware/avr/1.8.8/libraries/Wire/src/utility/twi.c",
+        "-o",
+        "/dev/null"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  }
+]
